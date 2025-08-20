@@ -7,7 +7,7 @@ print(getname())
 def function_name(name):
     print("Hello",name)
 
-function_name("Prajval")
+function_name("vishal")
 
    
 def input(n1,n2):

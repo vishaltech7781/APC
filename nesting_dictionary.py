@@ -1,7 +1,7 @@
 dict={
-    "Owner":"Prajval Bhatale",
+    "Owner":"vishal biradar",
     "info":{
-        "Name":"Prajval Bhatale",
+        "Name":"vishal biradar",
         "Salary":"15 LPA",
         "Age":24,
         "Company":"............."

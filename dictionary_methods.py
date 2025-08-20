@@ -1,7 +1,7 @@
 info={
-    "Age":23,
-    "Subjects":["Maths","English","Hindi","Marathi"],
-    "Name":"Prajval"
+    "Age":21,
+    "Subjects":["Maths","English","Marathi"],
+    "Name":"vishal"
 }
 
 print(info)
