@@ -20,5 +20,13 @@ print(info.values())
 info.update({"Age":26})
 print(info)
 
-info["Name"]="Prathamesh"
+info.update({"name":"yash"})
+print(info)
+
+#add key pair
+info['grade'] = 'a'
+print(info)
+
+#pop
+info.pop('grade')
 print(info)

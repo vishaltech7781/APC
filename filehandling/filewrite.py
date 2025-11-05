@@ -1,3 +1,3 @@
-def write(filepath, content):
-    with open(filepath, 'w') as f:
-        f.writelines(content)
+f = open("file2.txt", "w")
+f.write("Hello! This is write mode.")
+f.close()

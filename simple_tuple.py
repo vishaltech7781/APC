@@ -1,4 +1,4 @@
-tuple = ("vishal","biradar",48,107,3.14,48,"vishal","vishal""prajwal","banana")
+tuple = ("vishal","biradar",48,107,3.14,48,"vishal","vishal","prajwal","banana")
 
 print(len(tuple))
 
@@ -18,5 +18,5 @@ print(tuple[:6])
 print(tuple[3:6]) 
 
 print(tuple[-7:-2])   
-# print(tuple[::])   
+print(tuple[::-1])   
  

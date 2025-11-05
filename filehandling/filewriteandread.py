@@ -1,0 +1,5 @@
+f = open("file4.txt", "w+")
+f.write("Writing and then reading using w+ mode.")
+f.seek(0)
+print(f.read())
+f.close()

@@ -1,0 +1,5 @@
+f = open("file5.txt", "a+")
+f.write("\nAdded line using a+ mode.")
+f.seek(0)
+print(f.read())
+f.close()

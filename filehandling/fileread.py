@@ -1,3 +1,3 @@
-def read(filepath):
-    with open(filepath, 'r') as f:
-        return f.readlines()
+f = open("file1.txt", "r")
+print(f.readlines())
+f.close()
